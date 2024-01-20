@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá eu sou o Carlos Gadêlha 😎
 
-<!--
-**ECGSTI/ecgsti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+)](https://emersoncarlos.com.br/)
 
-Here are some ideas to get you started:
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rihey_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gadêlha GitHub stats](https://github-readme-stats.vercel.app/api?username=ecgsti&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
+Aos outros, dou o direito de serem como são. A mim, dou o dever de ser cada dia melhor.
